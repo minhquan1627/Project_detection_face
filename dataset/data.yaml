@@ -1,0 +1,6 @@
+path: C:/Users/Admin/Documents/Trên_Trường/Năm_3/Face_ID/dataset
+train: images/train
+val: images/val
+
+nc: 1  # Số lượng class (1 nếu chỉ có khuôn mặt)
+names: ['Face_human']  # Tên class
