@@ -29,6 +29,6 @@ pip install -r requirements.txt
 
 ##  Run - Chạy Dự Án trên máy
 ```bash
-python test.py
+python testtrain.py
 
 
