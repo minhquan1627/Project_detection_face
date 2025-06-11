@@ -16,9 +16,19 @@ A powerful and easy-to-use AI-based Face Recognition system built with Python an
 
 ### 📥 Các bước cài đặt
 
-1. **Clone dự án:**
+**Clone dự án:**
 
 ```bash
 git clone https://github.com/yourusername/face-recognition-ai.git
 cd face-recognition-ai
+```
+**Cài đặt thư viện:**
+```bash
+pip install -r requirements.txt
+```
+
+##  Run - Chạy Dự Án trên máy
+```bash
+python test.py
+
 
