@@ -4,30 +4,30 @@ A powerful and easy-to-use AI-based Face Recognition system built with Python an
 
 ---
 
-##  Installation – Cài đặt về máy
+##  Installation
 
-###  Yêu cầu hệ thống
+###  System Requirements
 
 - Python 3.10
 - pip
 - cmake
-- dlib (có thể cần Visual Studio Build Tools trên Windows)
-- Webcam (nếu chạy real-time)
+- dlib (may require Visual Studio Build Tools on Windows)
+- Webcam (if running real-time)
 
-### 📥 Các bước cài đặt
+### 📥 Installation Steps
 
-**Clone dự án:**
+**Clone the project:**
 
 ```bash
 git clone https://github.com/yourusername/face-recognition-ai.git
 cd face-recognition-ai
 ```
-**Cài đặt thư viện:**
+**Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-##  Run - Chạy Dự Án trên máy
+##  Run – Launch the Project Locally
 ```bash
 python testtrain.py
 
